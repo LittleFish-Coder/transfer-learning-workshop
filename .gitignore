@@ -2,4 +2,4 @@
 *.zip
 *.txt
 # Ignore the data folder
-PetImages/
+cat_dog_kaggle/
